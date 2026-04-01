@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-groq
+langgraph
+langchain-community
+langchain-experimental
+wikipedia
+arxiv
+pydantic
